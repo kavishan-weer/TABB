@@ -112,6 +112,7 @@ export default async function ArticlePage({
                 month: "long",
                 day: "numeric",
                 year: "numeric",
+                timeZone: "UTC",
               })}
             </span>
           </div>
